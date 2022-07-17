@@ -1,0 +1,7 @@
+README.md
+setup.py
+pipeline_processing.egg-info/PKG-INFO
+pipeline_processing.egg-info/SOURCES.txt
+pipeline_processing.egg-info/dependency_links.txt
+pipeline_processing.egg-info/requires.txt
+pipeline_processing.egg-info/top_level.txt

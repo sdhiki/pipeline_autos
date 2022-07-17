@@ -1,0 +1,1 @@
+PATH = "pacmann/Tugas4/pipeline_pacmann/data/autos.csv"
