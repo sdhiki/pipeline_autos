@@ -49,7 +49,7 @@ def pipeline_cleansing(df):
     data_category1 = pd.get_dummies(data_category)
     
     # get data price
-    data_price = df[['price']]
+    data_price = df[['price']].reset_index()
     
     # join dataframe to one
     data_numerical = data_price.join(data_normalize)
